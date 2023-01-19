@@ -1,4 +1,4 @@
-### Hi there, Im Jeremy 👋
+### Hi there, Im Jeremy. 👋
 
 Im a junior in Aerospace Engineering with a desire to go into the aviation industry post-grad. I am interested in learning more about programming and design as I would like to be developing avionics software as a career. I am currently working on my AerE 361 course, hence the creation of this README. My favorite hobbys include longboarding and napping. Im hoping to develop the skills necessday to be successful in this course.
 
